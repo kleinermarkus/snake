@@ -1,0 +1,116 @@
+// #### Levels ####
+var levels=new Array();
+
+// *** Level 1 ***
+levels[1]=new Array();
+levels[1]["groesse"]=new Array();
+levels[1]["groesse"]['x']=10;
+levels[1]["groesse"]['y']=10;
+levels[1]["speed"] = 400;
+levels[1]["wall"]=new Array();
+
+// *** Level 2 ***
+levels[2]=new Array();
+levels[2]["groesse"]=new Array();
+levels[2]["groesse"]['x']=15;
+levels[2]["groesse"]['y']=15;
+levels[1]["speed"] = 400;
+levels[2]["wall"]=new Array();
+levels[2]["wall"][1]=new Array();
+levels[2]["wall"][1]['x']=7;
+levels[2]["wall"][1]['y']=5;
+levels[2]["wall"][2]=new Array();
+levels[2]["wall"][2]['x']=8;
+levels[2]["wall"][2]['y']=5;
+levels[2]["wall"][3]=new Array();
+levels[2]["wall"][3]['x']=8;
+levels[2]["wall"][3]['y']=6;
+levels[2]["wall"][4]=new Array();
+levels[2]["wall"][4]['x']=8;
+levels[2]["wall"][4]['y']=7;
+levels[2]["wall"][5]=new Array();
+levels[2]["wall"][5]['x']=8;
+levels[2]["wall"][5]['y']=8;
+levels[2]["wall"][6]=new Array();
+levels[2]["wall"][6]['x']=8;
+levels[2]["wall"][6]['y']=9;
+levels[2]["wall"][7]=new Array();
+levels[2]["wall"][7]['x']=7;
+levels[2]["wall"][7]['y']=9;
+levels[2]["wall"][8]=new Array();
+levels[2]["wall"][8]['x']=6;
+levels[2]["wall"][8]['y']=9;
+levels[2]["wall"][9]=new Array();
+levels[2]["wall"][9]['x']=6;
+levels[2]["wall"][9]['y']=5;
+levels[2]["wall"][10]=new Array();
+levels[2]["wall"][10]['x']=9;
+levels[2]["wall"][10]['y']=7;
+
+// *** Level 3 ***
+levels[3]=new Array();
+levels[3]["groesse"]=new Array();
+levels[3]["groesse"]['x']=20;
+levels[3]["groesse"]['y']=20;
+levels[3]["speed"] = 400;
+levels[3]["wall"]=new Array();
+levels[3]["wall"][1]=new Array();
+levels[3]["wall"][1]['x']=6;
+levels[3]["wall"][1]['y']=7;
+levels[3]["wall"][2]=new Array();
+levels[3]["wall"][2]['x']=7;
+levels[3]["wall"][2]['y']=7;
+levels[3]["wall"][3]=new Array();
+levels[3]["wall"][3]['x']=8;
+levels[3]["wall"][3]['y']=7;
+levels[3]["wall"][4]=new Array();
+levels[3]["wall"][4]['x']=9;
+levels[3]["wall"][4]['y']=7;
+levels[3]["wall"][5]=new Array();
+levels[3]["wall"][5]['x']=10;
+levels[3]["wall"][5]['y']=7;
+levels[3]["wall"][6]=new Array();
+levels[3]["wall"][6]['x']=11;
+levels[3]["wall"][6]['y']=7;
+
+levels[3]["wall"][7]=new Array();
+levels[3]["wall"][7]['x']=11;
+levels[3]["wall"][7]['y']=8;
+levels[3]["wall"][8]=new Array();
+levels[3]["wall"][8]['x']=11;
+levels[3]["wall"][8]['y']=9;
+levels[3]["wall"][9]=new Array();
+levels[3]["wall"][9]['x']=11;
+levels[3]["wall"][9]['y']=10;
+levels[3]["wall"][10]=new Array();
+levels[3]["wall"][10]['x']=11;
+levels[3]["wall"][10]['y']=11;
+levels[3]["wall"][11]=new Array();
+levels[3]["wall"][11]['x']=11;
+levels[3]["wall"][11]['y']=11;
+levels[3]["wall"][12]=new Array();
+levels[3]["wall"][12]['x']=11;
+levels[3]["wall"][12]['y']=12;
+
+levels[3]["wall"][13]=new Array();
+levels[3]["wall"][13]['x']=10;
+levels[3]["wall"][13]['y']=12;
+levels[3]["wall"][14]=new Array();
+levels[3]["wall"][14]['x']=9;
+levels[3]["wall"][14]['y']=12;
+levels[3]["wall"][15]=new Array();
+levels[3]["wall"][15]['x']=8;
+levels[3]["wall"][15]['y']=12;
+levels[3]["wall"][16]=new Array();
+levels[3]["wall"][16]['x']=7;
+levels[3]["wall"][16]['y']=12;
+levels[3]["wall"][17]=new Array();
+levels[3]["wall"][17]['x']=6;
+levels[3]["wall"][17]['y']=12;
+
+levels[3]["wall"][18]=new Array();
+levels[3]["wall"][18]['x']=6;
+levels[3]["wall"][18]['y']=11;
+levels[3]["wall"][19]=new Array();
+levels[3]["wall"][19]['x']=6;
+levels[3]["wall"][19]['y']=8;
